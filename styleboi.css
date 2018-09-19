@@ -1,0 +1,140 @@
+
+body, html {
+  background-color: #f6f6f6;
+}
+
+#paintingboi {
+  height: 400px;
+  width: 400px; 
+  background-color: #fff4db; 
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  box-shadow: 5px 10px 0px #888888;
+}
+
+#toprowbois {
+  height: 290px; 
+}
+
+#bigboi {
+  width: 290px;
+  height: 290px;
+  float: right;
+}
+
+#topdivboi {
+  width: 10px;
+  height: 290px;
+  background-color: black;
+  float: right; 
+}
+
+#topleftboiii {
+  
+}
+
+#divboiii {
+  height: 10px;
+  width: 400px;
+  background-color: black;
+}
+
+#leftcolumndivboi {
+  height: 10px;
+  width: 100px;
+  background-color: black;
+}
+
+#bottombois {
+  height: 100px;
+  width: 400px;
+}
+
+#bottomleftboi {
+  height: 100px;
+  width: 100px;
+  float: right;
+}
+
+#middleboi {
+  height: 100px;
+  width: 260px;
+  float: right;
+}
+
+#minicolumnboi {
+  height: 100px;
+  width: 20px;
+  float: right;
+}
+
+#rightdivboi {
+  height:100px;
+  width: 10px;
+  background-color: black;
+  float: right;
+}
+
+#leftbottomdivboi {
+  height: 100px;
+  width: 10px;
+  background-color: black;
+  float: right;
+}
+
+.minidivboi {
+  height: 10px;
+  width: 20px;
+  background-color: black;
+}
+
+.tinyboi {
+  height: 45px;
+  width: 20px;
+}
+
+.orangeyouGladIdidntsayboi {
+  background-color: #f0941f;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: #23dbe7;
+}
+
+.bluer {
+  background-color: #4862f5;
+}
+
+.yellow {
+  background-color: #f5c137; 
+}
+
+.black {
+  background-color: black;
+}
+
+.purple {
+  background-color: #7b22ee;
+}
+
+.green {
+  background-color: #81f23c;
+}
+
+.right {
+  float: right;
+}
+
+.mediumboxyboi {
+  height: 140px;
+  width: 100px;
+}
+
+.topboi {
+  float: top;
+}
